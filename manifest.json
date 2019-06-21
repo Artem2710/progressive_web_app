@@ -1,0 +1,19 @@
+{
+  "display": "standalone",
+  "gcm_sender_id": "300013155679",
+  "gcm_user_visible_only": true,
+  "name": "Maillinker",
+  "short_name": "Maillinker",
+     "description": "Email for business",
+     "lang": "en-GB",
+     "start_url": ".",
+     "theme_color": "#E6E6FA",
+     "background_color": "#E6E6FA",
+     "icons": [
+       {
+         "src": "/templates/six/ProgressiveWebApp/apple-icon-144x144.png",
+         "sizes": "144x144",
+         "type": "image/png"
+       }
+     ]
+}
